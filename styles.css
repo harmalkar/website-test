@@ -1,0 +1,7 @@
+p{
+    color:blue;
+}
+
+.narrow-text {
+  max-width: 60ch;     /* 'ch' matches the width of the '0' character, perfect for typography */
+}
